@@ -2,6 +2,7 @@
 Node JS basic app 2 with Mongo DB Connection
 Connecting With Mongo DB
 
+You should check first app before doing this to understand better: https://github.com/StudentTW/nodejs_basic_app_1
 
 1.	Open https://mlab.com/
 2.	Create your account 
