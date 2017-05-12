@@ -10,9 +10,10 @@ var mongoose = require('mongoose');
 var app = express();
 
 
-// Declare Monogo DB Connection URL
+// Declare Monogo DB  URL that we created as per tutorial
+// Replace it with your Mongodb Url
 
-var url='mongodb://admin:12345678@ds145649.mlab.com:45649/jollitiesapp';
+var url='mongodb://admin:admin@ds137801.mlab.com:37801/sampledb1234';
 
 // Connection to Mongo DB with connection url using mongoose
 
